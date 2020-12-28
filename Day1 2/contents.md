@@ -9,7 +9,7 @@
 
 ## 1.1 개요
 
-![Unsupervised-Learning/Day1 2/pics/Untitled.png](Unsupervised-Learning/Day1 2/pics/Untitled.png)
+![Day1%202/pics/Untitled.png](Day1%202/pics/Untitled.png)
 
   → 강의 내용이 생각보다 Broad하고 불친절함
 
