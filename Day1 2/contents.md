@@ -8,7 +8,7 @@
 # 1. 1강
 
 ## 1.1 개요
-<center><img src="/pics/Untitled.png" width="300" height="300"></center>
+<center><img src="pics/Untitled.png" width="300" height="300"></center>
 
   → 강의 내용이 생각보다 Broad하고 불친절함
 
