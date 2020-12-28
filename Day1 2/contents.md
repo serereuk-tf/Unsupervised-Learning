@@ -9,7 +9,7 @@
 
 ## 1.1 개요
 
-![pics/Untitled.png](pics/Untitled.png)
+![pics/Untitled.png](pics/Untitled.png){: width="80%" height="80%"}
 
   → 강의 내용이 생각보다 Broad하고 불친절함
 
