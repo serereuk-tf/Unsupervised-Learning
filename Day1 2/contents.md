@@ -9,7 +9,7 @@
 
 ## 1.1 개요
 
-![Day1%202/Untitled.png](Day1%202/Untitled.png)
+![/Day1%202/Untitled.png](/Day1%202/Untitled.png)
 
   → 강의 내용이 생각보다 Broad하고 불친절함
 
