@@ -125,6 +125,8 @@ Autoregressive한 성질을 부여하기 위해 weight에 마스킹을 하여 �
 
 <center><img src="pics/Untitled 14.png" width="500" height="300"></center>
 
+출처 : https://www.youtube.com/watch?v=lNW8T0W-xeE&t=536s
+
 위 과정을 다시 정리하면 아래처럼 표현 가능
 
 <center><img src="pics/Untitled 15.png" width="500" height="300"></center>
