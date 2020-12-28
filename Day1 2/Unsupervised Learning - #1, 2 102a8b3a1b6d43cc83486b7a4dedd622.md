@@ -9,7 +9,7 @@
 
 ## 1.1 개요
 
-![Unsupervised%20Learning%20-%20#1,%202%20102a8b3a1b6d43cc83486b7a4dedd622/Untitled.png](Day1 2/Untitled.png)
+![Day1 2/Untitled.png](Day1 2/Untitled.png)
 
   → 강의 내용이 생각보다 Broad하고 불친절함
 
