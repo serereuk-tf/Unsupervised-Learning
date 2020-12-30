@@ -8,3 +8,4 @@ https://sites.google.com/view/berkeley-cs294-158-sp20/home
 
 > 공부를 하는 입장이기에 틀린 부분들이 있을 수도 있습니다.
 
+## Day 1
